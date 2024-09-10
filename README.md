@@ -1,4 +1,4 @@
-                                                                        TITLE: SIMPLE BANKING APPLICATION 
+                                  TITLE: SIMPLE BANKING APPLICATION 
                                                                         
 This is a basic console-based Banking Application written in Java. The program allows users to perform common banking operations such as depositing money, withdrawing funds, checking their account balance, and viewing account details.
 
